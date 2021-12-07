@@ -7,15 +7,6 @@
 
 ![cryptography-cybersecurity](https://github.com/paulveillard/cybersecurity-cryptography/blob/main/cryptography-cybersecurity.png)
 
-### Core Elements in Cryptography:
-
-> The core elements that make the cryptographic layers safe include: algorithms, keys, libraries, and certificates as described here:
-
-- **Cryptographic Keys** are used in conjunction with cryptographic algorithms to protect sensitive information. Cryptographic Keys must use an appropriate key length as defined by NIST (National Institute of Standards and Technology) and private keys must be kept secret to be effective. Relying on insecure keys or disclosing secret keys makes cryptography obsolete.
-- **Digital Certificates** are used to maintain trust between connected digital components. Digital certificates need to be properly managed to ensure that the use of compliant algorithms and key lengths, as well as being renewed prior to expiration to avoid security gaps. Non-compliant or hidden certificates can lead to massive systems outages or data breach.
-- **Cryptographic Libraries** contain an implementation of cryptographic algorithms that can be used by applications developers to protect sensitive information. Cryptographic Libraries need to be selected carefully and must be up to date to meet the required security level. Relying on insecure implementation or end-of-life Cryptographic Libraries can introduce hidden critical vulnerabilities across applications and infrastructure.
-- **Cryptographic Algorithms** are the mathematical foundation that maintain the integrity, confidentiality and authenticity of sensitive information. Relying on standardized and mathematically secure algorithms is mandatory to prevent data disclosure, data tampering or repudiation.
-
 
 ## Contents
 
