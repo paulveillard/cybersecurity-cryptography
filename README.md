@@ -5,6 +5,8 @@
 
 [Cryptography](https://en.wikipedia.org/wiki/Cryptography) is one of the most important tools businesses use to secure the systems that hold its most important asset – **data** – *whether it is at-rest or in-motion.* Data is vital information in the form of customer PII, employee PII, intellectual property, business plans, and any other confidential information. Therefore, cryptography is critical infrastructure because increasingly the security of sensitive data relies on cryptographical solutions.
 
+![cryptography-cybersecurity](https://github.com/paulveillard/cybersecurity-cryptography/blob/main/cryptography-cybersecurity.png)
+
 ### Core Elements in Cryptography:
 
 > The core elements that make the cryptographic layers safe include: algorithms, keys, libraries, and certificates as described here:
