@@ -1,6 +1,5 @@
-# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi)
 
-# About
+## About
 - Python scripts that illustrate basic cryptography concepts based on Coursera Standford Cryptography I course and more
 - Each has tests, notes and detailed explanations in the hopes that you can clearly understand what's happening
 - The references section of this README links to awesome websites you can use for learning cryptography
@@ -26,11 +25,14 @@
 ### 7. [Basic RSA](./07-basic-rsa/)
  - An example pipeline that demonstrates basic RSA encryption and decryption.
  
-# References
+## References
 - [❤️ Crypto Hack](https://cryptohack.org/)
 - [Coursera Cryptography I, Stanford, Dan Boneh](https://www-origin.coursera.org/learn/crypto)
 - [A Graduate Course in Applied Cryptography by Dan Boneh and Victor Shoup](https://toc.cryptobook.us/)
 - [Crypto 101 by Laurens Van Houtven](https://www.crypto101.io/)
 - [Crypto Pals Crypto Challenges](https://cryptopals.com/)
 
-# [🐳](https://mithi.github.io/deep-blueberry) [☕️](https://ko-fi.com/minimithi)
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
