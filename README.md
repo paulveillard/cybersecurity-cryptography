@@ -381,6 +381,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [suruga](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
 - [webpki](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
+**[`^        back to top        ^`](#)**
+
 ### Scala
 
 - [recrypt](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
@@ -408,11 +410,15 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Salty Hash](https://blog.ironcorelabs.com) - Covers topics on encryption, data control, privacy, and security.
 - [Schneier on security](https://www.schneier.com/) - One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.
 
+**[`^        back to top        ^`](#)**
+
 ### Mailing lists
 
 - [metzdowd.com](http://www.metzdowd.com/mailman/listinfo/cryptography) - "Cryptography" is a low-noise moderated mailing list devoted to cryptographic technology and its political impact.
 - [Modern Crypto](https://moderncrypto.org/) - Forums for discussing modern cryptographic practice.
 - [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) - List for general discussion of cryptography, particularly the technical aspects.
+
+**[`^        back to top        ^`](#)**
 
 ### Web-tools
 
@@ -422,6 +428,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 - [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
+
+**[`^        back to top        ^`](#)**
 
 ### Web-sites
 
@@ -436,6 +444,8 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
 - [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - A collection of block diagrams of common cryptographic functions drawn in TikZ to be used in research papers and presentations written in LaTeX.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.
+
+**[`^        back to top        ^`](#)**
 
 
 ## License
