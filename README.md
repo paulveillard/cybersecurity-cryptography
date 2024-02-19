@@ -122,6 +122,7 @@
 - [The Code Book](https://simonsingh.net/books/the-code-book/) - This book is a digest of the history of cryptography, covering both ancient times, and newer cryptography methods. There are exercises at the end and the solution of those was rewarded with $10.000.
 - [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security.
 - [Understanding Cryptography](http://www.crypto-textbook.com/) - Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.
+- [Cryptography: A Very Short Introduction](https://www.amazon.it/dp/0192803158?linkCode=gs2&tag=uuid06-21) - This book is a clear and informative introduction to cryptography and data protection - subjects of considerable social and political importance.
 
 **[`^        back to top        ^`](#)**
 
@@ -161,6 +162,7 @@
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [sops](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 - [ves](https://ves.host/docs/ves-util) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+- [cryptool](https://www.cryptool.org/en/) - EThe CT project develops the world's most-widespread free e-learning programs in the area of cryptography and cryptanalysis. All learning programs in the CT project are open source and available for free.
 
 **[`^        back to top        ^`](#)**
 
