@@ -1,7 +1,7 @@
 <ul>
  <li><b><a target="_blank" href="https://github.com/paulveillard/cybersecurity-cryptography/blob/main/cryptography-books/A_Course_In_Number_Theory_Cryptography_Neal_Koblitz.pdf" style="text-decoration:none;"> A Course in Number Theory and Cryptography</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Cryptography-Books/blob/master/ryp(2).pdf" style="text-decoration:none;">An Introduction to Cryptography</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/paulveillard/cybersecurity-cryptography/blob/main/cryptography-books/An_Introduction_To_Cryptography_2nd_Richard_Mollin.pdf" style="text-decoration:none;">An Introduction to Cryptography</a></b></li>  
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cryptography-Books/blob/master/ryp(3).pdf" style="text-decoration:none;">Applied Cryptography </a></b></li>
                                
