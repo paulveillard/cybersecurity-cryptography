@@ -470,7 +470,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 - [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 - [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
-- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
 
 
 **[`^        back to top        ^`](#)**
